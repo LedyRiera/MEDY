@@ -26,5 +26,18 @@ body {
    font-family: 'Roboto', sans-serif;
 }
 header {
+   position: relative;
    font-weight: 500;
+   font-size: 16px;
+   line-height: 19px;
+
+}
+header table {
+   width: 1295px;
+   margin: auto;
+   text-align: center;
+   align-items: center;
+}
+.header td {
+   border-left: 1px solid #C4C4C4;
 }

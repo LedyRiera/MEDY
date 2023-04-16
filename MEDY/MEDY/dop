@@ -1,0 +1,34 @@
+<div class="header-box">
+         <div class="simbol">
+            <img
+            srcset="img/simbol.png,
+                     img/simbol@2x.png 2x"
+            src="img/simbol.png" alt="">
+            <img src="img/MEDY.png" alt="">
+         </div>
+      </div>
+      <div>
+         <a href="tel:+7(123)4567890">+7 (123) 456 78 90</a>
+      </div>
+      <div class="header-box">
+            <p>Наши салоны</p>
+            <img src="img/tringle.png" alt="">
+      </div>
+      <div class="header-box">
+         <div class="eye">
+            <img src="img/eye.png" alt="">
+            <p>Версия для слабовидящих</p>
+         </div>
+      </div>
+      <div class="header-box">
+         <img src="img/vk.png" alt="">
+      </div>
+      <div class="header-box">
+         <img src="img/yt.png" alt="">
+      </div>
+      <div class="header-box">
+         <img src="img/fb.png" alt="">
+      </div>
+      <div class="header-box">
+         <img src="img/instagram.png" alt="">
+      </div>
